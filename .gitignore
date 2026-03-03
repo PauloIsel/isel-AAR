@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ContainerLab
+clab-*/
+*.tar.xz
+*.qcow2
+*.vmdk
+*.Zone.Identifier
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# Sensitive data
+*.key
+*.pem
+*.crt
+authorized_keys
+
+# Generated files (can be uncommented if you want to ignore them)
+# part1/output/

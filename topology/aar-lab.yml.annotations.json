@@ -1,0 +1,99 @@
+{
+  "freeTextAnnotations": [],
+  "freeShapeAnnotations": [],
+  "groupStyleAnnotations": [],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "r1",
+      "position": {
+        "x": 320,
+        "y": 300
+      },
+      "geoCoordinates": {
+        "lat": 48.775846,
+        "lng": 9.182932
+      }
+    },
+    {
+      "id": "r2",
+      "position": {
+        "x": 360,
+        "y": 420
+      },
+      "geoCoordinates": {
+        "lat": 50.110924,
+        "lng": 8.682127
+      }
+    },
+    {
+      "id": "r3",
+      "position": {
+        "x": 480,
+        "y": 440
+      },
+      "geoCoordinates": {
+        "lat": 48.856613,
+        "lng": 2.352222
+      }
+    },
+    {
+      "id": "r4",
+      "position": {
+        "x": 460,
+        "y": 260
+      },
+      "geoCoordinates": {
+        "lat": 51.507351,
+        "lng": -0.127758
+      }
+    },
+    {
+      "id": "h1",
+      "position": {
+        "x": 220,
+        "y": 400
+      },
+      "geoCoordinates": {
+        "lat": 48.775846,
+        "lng": 11.982932
+      }
+    },
+    {
+      "id": "h2",
+      "position": {
+        "x": 520,
+        "y": 340
+      },
+      "geoCoordinates": {
+        "lat": 50.110924,
+        "lng": 11.482127
+      }
+    },
+    {
+      "id": "h3",
+      "position": {
+        "x": 640,
+        "y": 520
+      },
+      "geoCoordinates": {
+        "lat": 48.856613,
+        "lng": 5.152222
+      }
+    },
+    {
+      "id": "h4",
+      "position": {
+        "x": 600,
+        "y": 160
+      },
+      "geoCoordinates": {
+        "lat": 51.507351,
+        "lng": 2.672242
+      }
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {}
+}
