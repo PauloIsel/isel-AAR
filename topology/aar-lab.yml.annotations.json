@@ -7,7 +7,7 @@
     {
       "id": "r1",
       "position": {
-        "x": 320,
+        "x": 360,
         "y": 300
       },
       "geoCoordinates": {
@@ -19,7 +19,7 @@
       "id": "r2",
       "position": {
         "x": 360,
-        "y": 420
+        "y": 460
       },
       "geoCoordinates": {
         "lat": 50.110924,
@@ -29,8 +29,8 @@
     {
       "id": "r3",
       "position": {
-        "x": 480,
-        "y": 440
+        "x": 520,
+        "y": 460
       },
       "geoCoordinates": {
         "lat": 48.856613,
@@ -40,8 +40,8 @@
     {
       "id": "r4",
       "position": {
-        "x": 460,
-        "y": 260
+        "x": 520,
+        "y": 300
       },
       "geoCoordinates": {
         "lat": 51.507351,
@@ -51,8 +51,8 @@
     {
       "id": "h1",
       "position": {
-        "x": 220,
-        "y": 400
+        "x": 240,
+        "y": 220
       },
       "geoCoordinates": {
         "lat": 48.775846,
@@ -62,8 +62,8 @@
     {
       "id": "h2",
       "position": {
-        "x": 520,
-        "y": 340
+        "x": 240,
+        "y": 540
       },
       "geoCoordinates": {
         "lat": 50.110924,
@@ -74,7 +74,7 @@
       "id": "h3",
       "position": {
         "x": 640,
-        "y": 520
+        "y": 540
       },
       "geoCoordinates": {
         "lat": 48.856613,
@@ -84,8 +84,8 @@
     {
       "id": "h4",
       "position": {
-        "x": 600,
-        "y": 160
+        "x": 640,
+        "y": 220
       },
       "geoCoordinates": {
         "lat": 51.507351,

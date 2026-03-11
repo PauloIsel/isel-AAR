@@ -20,7 +20,7 @@ build/
 *~
 
 # ContainerLab
-clab-*/
+topology/clab-*/
 *.tar.xz
 *.qcow2
 *.vmdk
@@ -45,5 +45,5 @@ Thumbs.db
 *.crt
 authorized_keys
 
-# Generated files (can be uncommented if you want to ignore them)
+# Generated files
 # part1/output/
