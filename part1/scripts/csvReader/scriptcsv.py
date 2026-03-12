@@ -24,7 +24,7 @@ def connect(router):
         'port': int(router[1]),
         'username': router[2],
         'password': router[3],
-        'timeout': 30,
+        'timeout': 60,
         'global_delay_factor': 2,
     }
     
